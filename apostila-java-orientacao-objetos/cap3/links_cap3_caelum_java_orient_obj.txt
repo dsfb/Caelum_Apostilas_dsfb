@@ -1,0 +1,6 @@
+
+{{
+https://www.google.com.br/search?client=opera&q=java+code+conventions+portugues&sourceid=opera&ie=UTF-8&oe=UTF-8
+http://blog.desenvolvedor.org/java-code-conventions
+}}
+
